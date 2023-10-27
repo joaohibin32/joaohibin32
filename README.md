@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joaohibin32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me joao.galvan.cardoso@escola.pr.gov.br
+- 👀 Estou interessado em ficar rico
+- 🌱 Atualmente estou aprendendo códigos no alura 
+- 💞️ Procuro colaborar em entreterimento 
+- 📫 Como entrar em contato comigo joao.galvan.cardoso@escola.pr.gov.br
 
 <!---
 joaohibin32/joaohibin32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
