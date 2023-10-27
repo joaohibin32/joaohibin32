@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaohibin32
+- 👋Olá, eu sou @joaohibin32
 - 👀 Estou interessado em ficar rico
 - 🌱 Atualmente estou aprendendo códigos no alura 
 - 💞️ Procuro colaborar em entreterimento 
